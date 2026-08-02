@@ -35,3 +35,4 @@ arr = [8, 4, 2, 6, 1, 3]
 merge_sort(arr)
 
 print("Sorted Array:", arr)
+Sorted Array: [1, 2, 3, 4, 6, 8]
